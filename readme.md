@@ -2,4 +2,4 @@
 
 A open source RAG to chat with multiple pdf's
 
-![kurma][./image.png]
+![kurma](/image.png)
